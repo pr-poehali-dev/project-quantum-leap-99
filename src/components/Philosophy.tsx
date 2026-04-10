@@ -32,7 +32,7 @@ export function Philosophy() {
             }`}
           >
             <img
-              src="/minimalist-japanese-interior-design-with-natural-w.jpg"
+              src="https://cdn.poehali.dev/projects/5e51b8b9-a5b0-42d0-a16c-003d2fa4776a/files/c906cb1b-517a-4a7f-86fb-14d5ad2317b3.jpg"
               alt="Спокойствие и ясность"
               className="absolute inset-0 w-full h-full object-cover"
             />
