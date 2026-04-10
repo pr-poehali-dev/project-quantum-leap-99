@@ -84,12 +84,12 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">7</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет практики</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">200+</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">дней практики</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">2400+</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Изменили жизнь</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage"></p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground py-[1px] my-[30px]">верь в себя</p>
               </div>
               <div>
                 <p className="font-serif text-3xl md:text-4xl text-sage">94%</p>
