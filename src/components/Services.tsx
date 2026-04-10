@@ -92,9 +92,7 @@ export function Services() {
             className={`font-serif text-4xl md:text-5xl lg:text-6xl font-light text-foreground text-balance transition-all duration-1000 delay-200 ${
               isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
             }`}
-          >
-            С чем мы работаем
-          </h2>
+          >Что влияет?</h2>
         </div>
 
         {/* Services Grid */}
