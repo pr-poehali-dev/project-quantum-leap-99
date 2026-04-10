@@ -38,10 +38,7 @@ export function Testimonial() {
           className={`font-serif text-2xl md:text-3xl lg:text-4xl font-light text-primary-foreground leading-relaxed mb-10 text-balance transition-all duration-1000 delay-200 ${
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
-        >
-          Я не ожидал, что это может быть так... спокойно. Без борьбы. Через три месяца я не просто бросил курить —
-          я стал другим человеком. Появились силы, ясность и желание жить по-новому.
-        </blockquote>
+        >«Преодолевая все препятствия и отвлекающие факторы, человек может неизменно достигать выбранной цели или места назначения»</blockquote>
 
         {/* Attribution */}
         <div
@@ -49,8 +46,8 @@ export function Testimonial() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          <p className="text-sm tracking-widest uppercase text-primary-foreground/80">Алексей, 34 года</p>
-          <p className="text-sm text-primary-foreground/60 mt-1">Свободен от курения уже 2 года</p>
+          <p className="text-sm tracking-widest uppercase text-primary-foreground/80">Христофор Колумб</p>
+          <p className="text-sm text-primary-foreground/60 mt-1"></p>
         </div>
       </div>
     </section>
